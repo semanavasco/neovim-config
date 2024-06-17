@@ -19,6 +19,7 @@ return {
         liquid = { "prettier" },
         lua = { "stylua" },
         python = { "isort", "black" },
+        elixir = { "credo" },
       },
       format_after_save = {
         lsp_fallback = true,

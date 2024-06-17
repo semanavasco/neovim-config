@@ -29,6 +29,9 @@ return {
         "gitignore",
         "c",
         "vimdoc",
+        "elixir",
+        "eex",
+        "heex",
       },
 
       incremental_selection = {
